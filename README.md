@@ -1,4 +1,7 @@
 
+### Credits to Udemy Course ["Getting Started With VueJS"](https://www.udemy.com/getting-started-with-vue-js/learn/v4/overview)
+
+### Google Doc Notes link [here](https://docs.google.com/document/d/1tfcJSZgpkZox7Bwo6Xlnuls_ABAc7iKtwhp92kGYmXM/edit?usp=sharing)
 
 2.2 Start - End
 ---------
